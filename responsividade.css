@@ -1,0 +1,38 @@
+@media (max-width: 945px) {
+  html {
+    font-size: 87.5%;
+  }
+
+  #home header ul {
+    display: none;
+  }
+
+  #home #home-info {
+    flex-direction: column;
+  }
+
+  #home #home-info .group-img img {
+    width: 100%;
+  }
+
+  main .content-superior {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  main .content-superior .post-1 img,
+  main .content-inferior .post img {
+    width: 100%;
+  }
+
+  main .content-inferior .post {
+    text-align: center;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 550px) {
+  #home header .search {
+    display: none;
+  }
+}
