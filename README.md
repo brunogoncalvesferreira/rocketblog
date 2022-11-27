@@ -1,5 +1,5 @@
 <h1 align="center">
-    Desafio: RocketShoes
+    Desafio: RocketBlog
 </h1>
 
 <p align="center">
