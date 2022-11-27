@@ -27,7 +27,7 @@ WEB
 
 </p>
 MOBILE
-<p>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="preview" title="preview" src=".github/image2.png" width="320px">
 
 </p>
